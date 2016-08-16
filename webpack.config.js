@@ -49,7 +49,7 @@ switch(process.env.npm_lifecycle_event) {
         devtool: 'source-map'
       },
       parts.babelLoader(PATHS.app),
-      //parts.minify(),
+      parts.minify(),
       parts.extractCSS(PATHS.app, cssBundle)
     );
     break;

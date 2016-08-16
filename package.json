@@ -10,7 +10,11 @@
   },
   "keywords": [],
   "author": "Andrew Staroscik <amstaroscik@gmail.com> (http://andrewstaroscik.com)",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndrewStaroscik/webpack-single-page-builder"
+  },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
     "babel": "^6.5.2",

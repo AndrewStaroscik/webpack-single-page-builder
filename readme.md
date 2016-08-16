@@ -34,3 +34,4 @@ They can be renamed during this step as desired, but for everyting to work the h
 
 * Add a clean step to delete build folder as the first step of the `npm run build` call
 * Add more variables to the `webpack.config.js` file to make it easier to customize the target div id (default mainFrame).
+* Get [webpack-validator working with stylus](http://disq.us/p/19ptmz7)
